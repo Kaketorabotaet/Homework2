@@ -4,12 +4,12 @@ public class dz3 {
         //Задача №2
         //Создать переменные с ростом, весом.
 
-        int growth = 180;
+        double growth = 1.8;
         int weight = 80;
 
         //Произвести расчет индекса массы тела (вес) / (рост * рост) используя переменные, вывести на экран
 
-        System.out.print(weight / (double) (growth * growth));
+        System.out.print(weight / (growth * growth));
 
     }
 }
