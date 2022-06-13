@@ -1,6 +1,6 @@
 package lession4;
 
-public class Homework2 {
+public class Homework2bazaovii {
     public static void main(String[] args) {
         // Базовый уровень
         // Задание №1 - Написать цикл, который выводит через пробел 100 чисел с приставкой "a".
