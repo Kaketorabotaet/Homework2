@@ -68,5 +68,7 @@ public class Homework2bazaovii {
         System.out.println("В нашем приюте новое животное " + animal1.getNameAnimal());
         animalSpeed animalGloria = new animalSpeed(38.4);
         System.out.println("Скорость нашего новичка составляет " +animalGloria.getSpeedAnimal());
+        animalName animal2 = new animalName("Boika");
+        System.out.println("А вот мы видим " + animal2.getNameAnimal());
     }
 }
