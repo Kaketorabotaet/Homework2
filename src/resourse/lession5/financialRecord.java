@@ -1,4 +1,4 @@
-package lession5;
+package resourse.lession5;
 
 public class financialRecord {
     int incomes;

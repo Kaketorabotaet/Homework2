@@ -1,4 +1,4 @@
-package lession5;
+package resourse.lession5;
 
 public abstract class Car {
     public void rides() {

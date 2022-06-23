@@ -1,6 +1,5 @@
-package lession5;
+package resourse.lession5;
 
-import javax.xml.crypto.dsig.spec.XSLTTransformParameterSpec;
 import java.io.*;
 
 public class allHomework {
